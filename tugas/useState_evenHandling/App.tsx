@@ -1,4 +1,4 @@
-import FibonacciSequence from "./component/FibonacciSequence.tsx";
+import FibonacciSequence from "./component/FibonacciSequence";
 
 function App() {
   return (
