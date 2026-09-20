@@ -7,6 +7,9 @@ function App() {
         nama="John Doe"
         email="johndoe@gmail.com"
         nim={12345}
+        fakultas="Ilmu Komputer"
+        prodi="Informatika"
+        semester={12}
       />
     </>
   )
